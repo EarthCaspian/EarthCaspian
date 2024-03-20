@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Java & Typescript.<br>🎯 Goals: To one day write a piece of code without actually double checking previous material. And...i think that's it..or wait, is it?<br>🎲 Fun fact: I make good friends with people who reply correctly to ''hello there!''.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Java & Typescript.<br>🎯 Goals: To one day write a piece of code without actually double checking previous material.<br>🎲 Fun fact: I make good friends with people who reply correctly to ''hello there!''.</p>
 
 ###
 
