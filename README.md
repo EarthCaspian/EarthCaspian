@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hazar and I'm a Web Developer, from Istanbul.</p>
+<p align="left">My name is Hazar and I'm from Istanbul.</p>
 
 ###
 
